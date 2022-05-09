@@ -1,3 +1,3 @@
 # Travel Advisor App
 
-* Work in progress *
+*Work in progress*
