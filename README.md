@@ -1,6 +1,6 @@
 # Travel Advisor App 🗺️
 
-Easy-to-use *Travel Advisor* application targeting your current location on the map, and provides recommendations of various attractions, hotels and restaurants.
+Easy-to-use *Travel Advisor* application targeting your current location on the map, and provides recommendations and information of various attractions, hotels and restaurants.
 
 ## Extra features are included
 
